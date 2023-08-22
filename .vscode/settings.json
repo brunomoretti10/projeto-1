@@ -1,6 +1,18 @@
 {
+  "python.jediEnabled": false,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "files.autoSave": "afterDelay",
+  "python.pythonPath": "C:\\Users\\Leandro\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+  "editor.accessibilitySupport": "off",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "code-runner.executorMap": {
+    "python": "set PYTHONIOENCODING=utf8 && python"
+  },
   "[python]": {
-    "editor.defaultFormatter": "ms-python.python"
+    "editor.defaultFormatter": "ms-python.autopep8"
   },
   "python.formatting.provider": "none"
 }
