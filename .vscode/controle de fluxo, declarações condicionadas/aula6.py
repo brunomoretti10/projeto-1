@@ -1,4 +1,4 @@
-#controle de curso, declarações condicionadas
+#controle de fluxo, declarações condicionadas
 #if e else
 '''if condição1:
      - código a ser executado se condição1 for verdadeira
