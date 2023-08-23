@@ -18,4 +18,12 @@ if pedro_titular and volta_maracana:
         print('Flamengo campeão')
 else: 
         print('São Paulo campeão')
+
+#multiplos operadores de comparação
+valor = 10
+if 20 <= valor < 40:
+    print('produto aceito')
+else:
+      print('produto não aceito')
+
     
